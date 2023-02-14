@@ -8,3 +8,7 @@ one encryption algorithm to hide the data. I also learn about DNA
 storage and security that is very popular in recently.
 
 • DNA based Steganography
+
+You can refere below links for more clarification towards the process:
+Encryption: - https://drive.google.com/file/d/1QS1TvulgTFhfdDmt7Obucwar3XrphGIx/view?usp=sharing
+Decryption: - https://drive.google.com/file/d/1RrOZsaQESb7j63LIXROkdwDgItxwZPEK/view?usp=sharing
